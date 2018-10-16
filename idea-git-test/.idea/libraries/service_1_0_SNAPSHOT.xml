@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="service-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../maven/maven_parent/service/target/service-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
