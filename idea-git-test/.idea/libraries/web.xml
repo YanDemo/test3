@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="web">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../maven/maven_parent/web/target/web.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
