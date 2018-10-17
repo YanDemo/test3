@@ -9,4 +9,7 @@ public class test {
         System.out.println("帅得掉渣!!!真丑");
         System.out.println("帅得掉渣!!!真丑");
     }
+    public void test(){
+        System.out.println("谁说的???");
+    }
 }

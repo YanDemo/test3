@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../maven/maven_parent/web/target/tomcat/work/Tomcat/localhost/localhost.iml" filepath="$PROJECT_DIR$/../maven/maven_parent/web/target/tomcat/work/Tomcat/localhost/localhost.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../maven/maven_parent/service/src/main/main.iml" filepath="$PROJECT_DIR$/../maven/maven_parent/service/src/main/main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../maven/maven_parent/web/src/main/main1.iml" filepath="$PROJECT_DIR$/../maven/maven_parent/web/src/main/main1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../maven/maven_parent/domain/src/main/main2.iml" filepath="$PROJECT_DIR$/../maven/maven_parent/domain/src/main/main2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../maven/maven_parent/dao/src/main/main3.iml" filepath="$PROJECT_DIR$/../maven/maven_parent/dao/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea-git-test.iml" filepath="$PROJECT_DIR$/idea-git-test.iml" />
     </modules>
   </component>
 </project>
