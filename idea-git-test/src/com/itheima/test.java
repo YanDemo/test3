@@ -11,5 +11,7 @@ public class test {
     }
     public void test(){
         System.out.println("谁说的???");
+        System.out.println("谁说的???");
+        System.out.println("谁说的???");
     }
 }
